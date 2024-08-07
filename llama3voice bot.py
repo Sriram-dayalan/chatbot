@@ -1,6 +1,5 @@
 # A Meta Llama-3-Powered Voice Chatbot
 # Tested and working on Windows 11
-# By TechMakerAI on YouTube
 # 
 from ollama import chat
 import speech_recognition as sr
